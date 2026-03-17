@@ -1,4 +1,4 @@
-# AI Evaluation — A PM Perspective
+# AI Evaluation: A PM Perspective
 
 Most AI eval setups are honest in their intent but soft in their definitions.
 
